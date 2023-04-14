@@ -43,4 +43,8 @@ app.post("/books/addbooks", async (req, res) => {
   }
 });
 
+app.put
+
+app.delete
+
 app.listen(5001, () => console.log("server is listening"));
